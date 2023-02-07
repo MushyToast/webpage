@@ -45,6 +45,8 @@ body {
     margin: 10px;
     font-size: 20px;
     transition: 0.2s;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .customcard1:hover {

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MushyToast/webpage/issues"
   },
-  "homepage": "https://github.com/MushyToast/webpage#readme"
+  "homepage": "https://github.com/MushyToast/webpage#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
 }
